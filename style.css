@@ -1,0 +1,17 @@
+.green{
+    width: 50%;
+    height: 200px;
+    background-color: green;
+    border: 50px solid black;
+    padding: 40px 80px 50px 100px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}   
+.white{
+    width: 40%;
+    height: 200px;
+    background-color: red;
+    border: 50px solid rgb(254, 225, 9);
+    padding: 100px 40px;
+    
+}
